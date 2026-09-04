@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository in academic work, please cite the thesis and this software repository."
+title: "MultiRank Simulation in International Financial Networks"
+type: software
+authors:
+  - family-names: "Feng"
+    given-names: "Xiangtai"
+repository-code: "https://github.com/fxttamako029-netizen/MultirankSimulation"
+url: "https://github.com/fxttamako029-netizen/MultirankSimulation"
+abstract: >-
+  Research code and data for an Honours thesis studying systemic risk and
+  financial contagion in multiplex international banking networks using BIS
+  cross-border banking exposures, MultiRank, contagion simulations, credit
+  crunch scenarios, heterogeneous buffers, and targeted bailout experiments.
+keywords:
+  - MultiRank
+  - multiplex networks
+  - financial networks
+  - systemic risk
+  - financial contagion
+  - BIS
